@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @blwalkerdavies
-- 👀 I’m interested in open source and web3!
+- 👋 Hi, I’m BL!
+- 👀 I’m interested in open source and web3
 - 🌱 I’m currently learning the MERN stack
 - 💞️ I’m looking to collaborate on whatever I can help with!
 - 🐦 Twitter @blwalkerdavies
